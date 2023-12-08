@@ -1,4 +1,4 @@
-## Welcome to Paraiso Bots
+# Welcome to Paraiso Bots! ⚡
 
 We are a community of passionate developers and Discord enthusiasts dedicated to creating innovative and powerful bots that enhance your server experience. We believe in the power of open-source collaboration and are committed to building a thriving community around our projects.
 
